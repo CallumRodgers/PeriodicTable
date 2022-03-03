@@ -1,0 +1,342 @@
+<elements>
+    <element>
+        <number>21</number>
+        <name>Escândio</name>
+        <latin-name>Scandium</latin-name>
+        <symbol>Sc</symbol>
+        <protons>21</protons>
+        <neutrons>24</neutrons>
+        <electrons>21</electrons>
+        <atomic-mass>44.955912</atomic-mass>
+        <density>2.99</density>
+        <electronegativity>1.36</electronegativity>
+        <fusion-point>1814.15</fusion-point>
+        <boiling-point>3109.15</boiling-point>
+        <electron-shells>K2 L8 M9 N2 O0 P0 Q0</electron-shells>
+        <ions>Sc3+</ions>
+        <ionisation-potential>6.57</ionisation-potential>
+    </element>
+    <element>
+        <number>22</number>
+        <name>Titânio</name>
+        <latin-name>Titanium</latin-name>
+        <symbol>Ti</symbol>
+        <protons>22</protons>
+        <neutrons>26</neutrons>
+        <electrons>22</electrons>
+        <atomic-mass>47.9</atomic-mass>
+        <density>4.54</density>
+        <electronegativity>1.54</electronegativity>
+        <fusion-point>1933.15</fusion-point>
+        <boiling-point>3560.15</boiling-point>
+        <electron-shells>K2 L8 M10 N2 O0 P0 Q0</electron-shells>
+        <ions>Ti4+, Ti3+</ions>
+        <ionisation-potential>6.81</ionisation-potential>
+    </element>
+    <element>
+        <number>23</number>
+        <name>Vanádio</name>
+        <latin-name>Vanadium</latin-name>
+        <symbol>V</symbol>
+        <protons>23</protons>
+        <neutrons>28</neutrons>
+        <electrons>23</electrons>
+        <atomic-mass>50.9415</atomic-mass>
+        <density>6.11</density>
+        <electronegativity>1.63</electronegativity>
+        <fusion-point>2183.15</fusion-point>
+        <boiling-point>3680.15</boiling-point>
+        <electron-shells>K2 L8 M11 N2 O0 P0 Q0</electron-shells>
+        <ions>V2+, V3+, V4+, V5+</ions>
+        <ionisation-potential>6.76</ionisation-potential>
+    </element>
+    <element>
+        <number>24</number>
+        <name>Cromo</name>
+        <latin-name>Chromium</latin-name>
+        <symbol>Cr</symbol>
+        <protons>24</protons>
+        <neutrons>28</neutrons>
+        <electrons>24</electrons>
+        <atomic-mass>51.996</atomic-mass>
+        <density>7.19</density>
+        <electronegativity>1.66</electronegativity>
+        <fusion-point>2180.15</fusion-point>
+        <boiling-point>2945.15</boiling-point>
+        <electron-shells>K2 L8 M13 N1 O0 P0 Q0</electron-shells>
+        <ions>Cr2+, Cr3+, Cr6+</ions>
+        <ionisation-potential>6.74</ionisation-potential>
+    </element>
+    <element>
+        <number>25</number>
+        <name>Manganês</name>
+        <latin-name>Manganum</latin-name>
+        <symbol>Mn</symbol>
+        <protons>25</protons>
+        <neutrons>30</neutrons>
+        <electrons>25</electrons>
+        <atomic-mass>54.9380</atomic-mass>
+        <density>7.21</density>
+        <electronegativity>1.55</electronegativity>
+        <fusion-point>1518.15</fusion-point>
+        <boiling-point>2334.15</boiling-point>
+        <electron-shells>K2 L8 M13 N2 O0 P0 Q0</electron-shells>
+        <ions>Mn2+, Mn4+, Mn7+</ions>
+        <ionisation-potential>7.40</ionisation-potential>
+    </element>
+    <element>
+        <number>26</number>
+        <name>Ferro</name>
+        <latin-name>Ferrum</latin-name>
+        <symbol>Fe</symbol>
+        <protons>26</protons>
+        <neutrons>30</neutrons>
+        <electrons>26</electrons>
+        <atomic-mass>55.847</atomic-mass>
+        <density>7.874</density>
+        <electronegativity>1.83</electronegativity>
+        <fusion-point>1812.15</fusion-point>
+        <boiling-point>3135.15</boiling-point>
+        <electron-shells>K2 L8 M14 N2 O0 P0 Q0</electron-shells>
+        <ions>Fe2+, Fe3+</ions>
+        <ionisation-potential>7.83</ionisation-potential>
+    </element>
+    <element>
+        <number>27</number>
+        <name>Cobalto</name>
+        <latin-name>Cobaltum</latin-name>
+        <symbol>Co</symbol>
+        <protons>27</protons>
+        <neutrons>32</neutrons>
+        <electrons>27</electrons>
+        <atomic-mass>58.9332</atomic-mass>
+        <density>8.9</density>
+        <electronegativity>1.88</electronegativity>
+        <fusion-point>1766.15</fusion-point>
+        <boiling-point>3143.15</boiling-point>
+        <electron-shells>K2 L8 M15 N2 O0 P0 Q0</electron-shells>
+        <ions>Co2+, Co3+</ions>
+        <ionisation-potential>7.81</ionisation-potential>
+    </element>
+    <element>
+        <number>28</number>
+        <name>Níquel</name>
+        <latin-name>Niccolum</latin-name>
+        <symbol>Ni</symbol>
+        <protons>28</protons>
+        <neutrons>31</neutrons>
+        <electrons>28</electrons>
+        <atomic-mass>58.70</atomic-mass>
+        <density>8.902</density>
+        <electronegativity>1.91</electronegativity>
+        <fusion-point>1728.15</fusion-point>
+        <boiling-point>3188.15</boiling-point>
+        <electron-shells>K2 L8 M16 N2 O0 P0 Q0</electron-shells>
+        <ions>Ni2+</ions>
+        <ionisation-potential>7.61</ionisation-potential>
+    </element>
+    <element>
+        <number>29</number>
+        <name>Cobre</name>
+        <latin-name>Cuprum</latin-name>
+        <symbol>Cu</symbol>
+        <protons>29</protons>
+        <neutrons>35</neutrons>
+        <electrons>29</electrons>
+        <atomic-mass>63.546</atomic-mass>
+        <density>8.92</density>
+        <electronegativity>1.9</electronegativity>
+        <fusion-point>1357.77</fusion-point>
+        <boiling-point>2835.15</boiling-point>
+        <electron-shells>K2 L8 M18 N1 O0 P0 Q0</electron-shells>
+        <ions>Cu+, Cu2+</ions>
+        <ionisation-potential>7.69</ionisation-potential>
+    </element>
+    <element>
+        <number>30</number>
+        <name>Zinco</name>
+        <latin-name>Zincum</latin-name>
+        <symbol>Zn</symbol>
+        <protons>30</protons>
+        <neutrons>35</neutrons>
+        <electrons>30</electrons>
+        <atomic-mass>65.38</atomic-mass>
+        <density>7.133</density>
+        <electronegativity>1.65</electronegativity>
+        <fusion-point>692.65</fusion-point>
+        <boiling-point>1179.15</boiling-point>
+        <electron-shells>K2 L8 M18 N2 O0 P0 Q0</electron-shells>
+        <ions>Zn2+</ions>
+        <ionisation-potential>9.35</ionisation-potential>
+    </element>
+    <element>
+        <number>31</number>
+        <name>Gálio</name>
+        <latin-name>Gallium</latin-name>
+        <symbol>Ga</symbol>
+        <protons>31</protons>
+        <neutrons>39</neutrons>
+        <electrons>31</electrons>
+        <atomic-mass>69.72</atomic-mass>
+        <density>5.91</density>
+        <electronegativity>1.81</electronegativity>
+        <fusion-point>302.95</fusion-point>
+        <boiling-point>2476.15</boiling-point>
+        <electron-shells>K2 L8 M18 N3 O0 P0 Q0</electron-shells>
+        <ions>Ga3+</ions>
+        <ionisation-potential>5.97</ionisation-potential>
+    </element>
+    <element>
+        <number>32</number>
+        <name>Germânio</name>
+        <latin-name>Germanium</latin-name>
+        <symbol>Ge</symbol>
+        <protons>32</protons>
+        <neutrons>41</neutrons>
+        <electrons>32</electrons>
+        <atomic-mass>72.59</atomic-mass>
+        <density>53.23</density>
+        <electronegativity>2.01</electronegativity>
+        <fusion-point>1210.65</fusion-point>
+        <boiling-point>3106.15</boiling-point>
+        <electron-shells>K2 L8 M18 N4 O0 P0 Q0</electron-shells>
+        <ions>Ge4-, Ge2+, Ge4+</ions>
+        <ionisation-potential>7.85</ionisation-potential>
+    </element>
+    <element>
+        <number>33</number>
+        <name>Arsênico</name>
+        <latin-name>Arsenicum</latin-name>
+        <symbol>As</symbol>
+        <protons>33</protons>
+        <neutrons>42</neutrons>
+        <electrons>33</electrons>
+        <atomic-mass>74.9216</atomic-mass>
+        <density>2.6989</density>
+        <electronegativity>2.18</electronegativity>
+        <fusion-point>0.00</fusion-point>
+        <boiling-point>886.15</boiling-point>
+        <electron-shells>K2 L8 M18 N5 O0 P0 Q0</electron-shells>
+        <ions>As3-, As3+, As5+</ions>
+        <ionisation-potential>9.96</ionisation-potential>
+    </element>
+    <element>
+        <number>34</number>
+        <name>Selênio</name>
+        <latin-name>Selenium</latin-name>
+        <symbol>Se</symbol>
+        <protons>34</protons>
+        <neutrons>45</neutrons>
+        <electrons>34</electrons>
+        <atomic-mass>78.96</atomic-mass>
+        <density>4.79</density>
+        <electronegativity>2.55</electronegativity>
+        <fusion-point>490.15</fusion-point>
+        <boiling-point>957.95</boiling-point>
+        <electron-shells>K2 L8 M18 N6 O0 P0 Q0</electron-shells>
+        <ions>Se2-, Se4+, Se6+</ions>
+        <ionisation-potential>9.5</ionisation-potential>
+    </element>
+    <element>
+        <number>35</number>
+        <name>Bromo</name>
+        <latin-name>Bromum</latin-name>
+        <symbol>Br</symbol>
+        <protons>35</protons>
+        <neutrons>45</neutrons>
+        <electrons>35</electrons>
+        <atomic-mass>79.904</atomic-mass>
+        <density>3.14</density>
+        <electronegativity>2.96</electronegativity>
+        <fusion-point>265.9</fusion-point>
+        <boiling-point>331.95</boiling-point>
+        <electron-shells>K2 L8 M18 N7 O0 P0 Q0</electron-shells>
+        <ions>Br-, Br+, Br5+</ions>
+        <ionisation-potential>11.8</ionisation-potential>
+    </element>
+    <element>
+        <number>36</number>
+        <name>Criptônio</name>
+        <latin-name>Krypton</latin-name>
+        <symbol>Kr</symbol>
+        <protons>36</protons>
+        <neutrons>48</neutrons>
+        <electrons>36</electrons>
+        <atomic-mass>83.80</atomic-mass>
+        <density>0.003749</density>
+        <electronegativity>3.0</electronegativity>
+        <fusion-point>115.78</fusion-point>
+        <boiling-point>119.75</boiling-point>
+        <electron-shells>K2 L8 M18 N8 O0 P0 Q0</electron-shells>
+        <ions>---</ions>
+        <ionisation-potential>13.94</ionisation-potential>
+    </element>
+    <element>
+        <number>37</number>
+        <name>Rubídio</name>
+        <latin-name>Rubidium</latin-name>
+        <symbol>Rb</symbol>
+        <protons>37</protons>
+        <neutrons>48</neutrons>
+        <electrons>37</electrons>
+        <atomic-mass>85.4678</atomic-mass>
+        <density>1.53</density>
+        <electronegativity>0.82</electronegativity>
+        <fusion-point>312.47</fusion-point>
+        <boiling-point>960.35</boiling-point>
+        <electron-shells>K2 L8 M18 N8 O1 P0 Q0</electron-shells>
+        <ions>Rb+</ions>
+        <ionisation-potential>4.16</ionisation-potential>
+    </element>
+    <element>
+        <number>38</number>
+        <name>Estrôncio</name>
+        <latin-name>Strontium</latin-name>
+        <symbol>Sr</symbol>
+        <protons>38</protons>
+        <neutrons>50</neutrons>
+        <electrons>38</electrons>
+        <atomic-mass>87.62</atomic-mass>
+        <density>2.54</density>
+        <electronegativity>0.95</electronegativity>
+        <fusion-point>1050.15</fusion-point>
+        <boiling-point>1655.15</boiling-point>
+        <electron-shells>K2 L8 M18 N8 O2 P0 Q0</electron-shells>
+        <ions>Sr2+</ions>
+        <ionisation-potential>5.67</ionisation-potential>
+    </element>
+    <element>
+        <number>39</number>
+        <name>Ítrio</name>
+        <latin-name>Yttrium</latin-name>
+        <symbol>Y</symbol>
+        <protons>39</protons>
+        <neutrons>50</neutrons>
+        <electrons>39</electrons>
+        <atomic-mass>88.9059</atomic-mass>
+        <density>4.47</density>
+        <electronegativity>1.22</electronegativity>
+        <fusion-point>1799.15</fusion-point>
+        <boiling-point>3611.15</boiling-point>
+        <electron-shells>K2 L8 M18 N9 O2 P0 Q0</electron-shells>
+        <ions>Y3+</ions>
+        <ionisation-potential>6.5</ionisation-potential>
+    </element>
+    <element>
+        <number>40</number>
+        <name>Zircônio</name>
+        <latin-name>Zirconium</latin-name>
+        <symbol>Zr</symbol>
+        <protons>40</protons>
+        <neutrons>51</neutrons>
+        <electrons>40</electrons>
+        <atomic-mass>91.22</atomic-mass>
+        <density>6.51</density>
+        <electronegativity>1.33</electronegativity>
+        <fusion-point>2128.15</fusion-point>
+        <boiling-point>4682.15</boiling-point>
+        <electron-shells>K2 L8 M18 N10 O2 P0 Q0</electron-shells>
+        <ions>Zn4+</ions>
+        <ionisation-potential>6.0</ionisation-potential>
+    </element>
+</elements>
