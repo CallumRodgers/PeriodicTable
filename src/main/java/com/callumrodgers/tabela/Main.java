@@ -43,5 +43,8 @@ public class Main {
             mainFrame.setVisible(true);
             mainFrame.requestFocus();
         });
+
+        Thread updateCheckerThread = new Thread(new UpdateChecker(), "Update Checker");
+        updateCheckerThread.start();
     }
 }

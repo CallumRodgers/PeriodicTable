@@ -1189,7 +1189,7 @@ public class PeriodicTable extends JPanel {
         JLabel legendLabel = new JLabel();
         legendLabel.setFont(new Font("Segoe UI", Font.BOLD, 15));
         legendLabel.setForeground(Color.WHITE);
-        legendPanel.add(legendLabel, "cell 0 0, grow");
+        //legendPanel.add(legendLabel, "cell 0 0, grow");
         for (PanelButton toggle : toggles) {
             Arrays.asList(toggle.getMouseListeners()).forEach(toggle::removeMouseListener);
             toggle.setInteractionListenerEnabled(true);

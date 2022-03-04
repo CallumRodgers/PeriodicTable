@@ -1,6 +1,7 @@
 # Tabela Periódica
 Uma implementação em Java de uma Tabela Periódica interativa. A base do código foi retirada de um
-projeto pessoal ainda não lançado, o **SpaceISE**.
+projeto pessoal ainda não lançado, o **SpaceISE**. O código e a documentação estão, portanto, em Inglês,
+por mais que a tabela em si esteja em Português.
 
 ## Funcionalidade
 1. A tabela possui **18 colunas (grupos)** e **7 linhas (períodos)**. Cada um desses eixos da matriz possui
