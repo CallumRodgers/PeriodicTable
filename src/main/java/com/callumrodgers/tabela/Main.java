@@ -1,5 +1,6 @@
 package com.callumrodgers.tabela;
 
+import com.callumrodgers.tabela.ui.UIDefaults;
 import com.callumrodgers.tabela.util.ResourceLoader;
 
 import javax.swing.*;
@@ -24,10 +25,8 @@ public class Main {
         Element.loadElements();
 
         SwingUtilities.invokeLater(() -> {
-            Image image = ResourceLoader.getImage("icon.png");
-
             mainFrame = new JFrame("Tabela Periódica");
-            mainFrame.setIconImage(image);
+            mainFrame.setIconImage(UIDefaults.icon);
             mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             mainFrame.setContentPane(contentPane);
             PeriodicTable table = new PeriodicTable();
